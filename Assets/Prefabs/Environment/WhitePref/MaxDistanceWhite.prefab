@@ -11,6 +11,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: MaxDistanceWhite
       objectReference: {fileID: 0}
+    - target: {fileID: 6460996712055108697, guid: 20e997430ec5f1a49806e48d8c778596, type: 3}
+      propertyPath: m_Color.b
+      value: 0.40392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 6460996712055108697, guid: 20e997430ec5f1a49806e48d8c778596, type: 3}
+      propertyPath: m_Color.g
+      value: 0.92156863
+      objectReference: {fileID: 0}
+    - target: {fileID: 6460996712055108697, guid: 20e997430ec5f1a49806e48d8c778596, type: 3}
+      propertyPath: m_Color.r
+      value: 0.7529412
+      objectReference: {fileID: 0}
     - target: {fileID: 6460996712055108698, guid: 20e997430ec5f1a49806e48d8c778596, type: 3}
       propertyPath: m_RootOrder
       value: 0
